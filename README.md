@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle!
 - 🌈 I’m interested in software development and design
-- 🌱 I’m currently learning software modelling, game design and front-end development <3
+- 🌱 I’m currently learning front-end development <3
 - ✨ Pronouns: she/her
 - 💌 Fun fact: I love travelling :)
 
