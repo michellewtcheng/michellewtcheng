@@ -2,7 +2,7 @@
 - 🌈 I’m interested in software development and design
 - 🌱 I’m currently learning front-end development <3
 - ✨ Pronouns: she/her
-- 💌 Fun fact: I love travelling, baking and reading :)
+- 💌 Fun facts: I love travelling, reading and sewing :)
 
 <!---
 michellewtcheng/michellewtcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
